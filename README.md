@@ -8,7 +8,9 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joaohneves)
 
 ![neves GitHub stats](https://github-readme-stats.vercel.app/api?username=joaohneves&show_icons=true&theme=dark)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaohneves&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Skills
 
 <div style="display: inline_block">
@@ -18,10 +20,11 @@
      <img align="center" alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
      <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
      <img align="center" alt="JQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=whitee" />
-</div>
+</div><br/>
+
+Não consigo imaginar minha vida sem a tecnologia, ela me fascina e me inspira a explorar constantemente novas possibilidades.
 <!--
 **joaohneves/joaohneves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
